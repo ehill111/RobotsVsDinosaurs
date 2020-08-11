@@ -7,19 +7,25 @@ namespace RobotsVsDinosaursGame
 {
 
 
-    public class Battlefield
+    class Battlefield
     {
         //Member variables
-        
-        string robot;
-        string dinosaur;
+
+        public Fleet theFleet;
+        public Herd theHerd;
+
 
         //Constructor
-        public Battlefield(string robot, string dinosaur)
+        public Battlefield()
         {
-
-            Battlefield robot = new Battlefield();
-            Battlefield dinosaur = new Battlefield();
+            theFleet = new Fleet();
+       
+        
+        }
+        public void Example()
+        {
+           // theFleet.theRobots[0].Attack(theHerd.theDino[0]);
+           
         }
 
         //Method Skeleton

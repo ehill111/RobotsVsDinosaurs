@@ -1,0 +1,13 @@
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.exe
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.deps.json
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.runtimeconfig.json
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.runtimeconfig.dev.json
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.dll
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\bin\Debug\netcoreapp3.1\RobotsVsDinosaursGame.pdb
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.csprojAssemblyReference.cache
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.AssemblyInfoInputs.cache
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.AssemblyInfo.cs
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.csproj.CoreCompileInputs.cache
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.dll
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.pdb
+C:\Users\ehill\Documents\Eric's Present Files\SoftwareAndWebDevelopment\devCodeCamp\RobosvDinos\RobotsVsDinosaursGame\obj\Debug\netcoreapp3.1\RobotsVsDinosaursGame.genruntimeconfig.cache

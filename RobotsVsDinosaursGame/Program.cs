@@ -6,7 +6,11 @@ namespace RobotsVsDinosaursGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //BookShelf myShelf = new BookShelf();
+
+
+           // Battlefield theBattle = new Battlefield();
+            //theBattle.RunBattle();
         }
     }
 }
