@@ -5,8 +5,8 @@ using System.Text;
 
 namespace RobotsVsDinosaursGame
 {
-    
-    
+
+
     public class Battlefield
     {
         //Member variables
@@ -17,9 +17,11 @@ namespace RobotsVsDinosaursGame
         string attackPower;
         string type;
         string energy;
+        string robot;
+        string dinosaur;
 
         //Constructor
-        public Battlefield(string name, string health, int powerLevel,string weapon, string attackPower, string energy)
+        public Battlefield(string name, string health, int powerLevel, string weapon, string attackPower, string energy)
         {
             this.name = name;
             this.health = health;
@@ -27,49 +29,30 @@ namespace RobotsVsDinosaursGame
             this.weapon = weapon;
             this.attackPower = attackPower;
             this.energy = energy;
-            
+            Battlefield robot = new Battlefield(name, health, powerLevel, weapon, attackPower);
+            Battlefield dinosaur = new Battlefield(name, health, powerLevel, weapon, attackPower);
         }
 
-        public Battlefield
-        {
-            Battlefield Glockosaurus = new Battlefield();
-            Battlefield Bitebuttasaurus = new Battlefield();
-            Battlefield Salivasaurus = new Battlefield();
-            Battlefield Magnum = new Battlefield();
-            Battlefield Valiant = new Battlefield();
-            Battlefield Formidable = new Battlefield();
-        }
-
-            
-
-
-
-        //Method(s)
-    public void AttackEnemy()
-        //1. Robots and dinosaurs will attack.
-        //2. 
-        {
-
-        }
-
-                
-    
-
-
-
-
-
-
+        
 
 
     }
 
 
 
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
