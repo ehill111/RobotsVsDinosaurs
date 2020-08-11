@@ -33,7 +33,51 @@ namespace RobotsVsDinosaursGame
             Battlefield dinosaur = new Battlefield(name, health, powerLevel, weapon, attackPower);
         }
 
-        
+        //Method Skeleton
+        /*Magnum uses axe
+         * - swings axe
+         * - attack
+         * - retreat
+         * - lose health
+         * - lose power
+         
+         Valiant uses club
+          - swings club
+          - attack
+          - retreat
+          - lose health
+          - lose power
+
+        Formidable uses sword
+         - swings sword
+         - attack
+         - retreat
+         - lose health
+         - lose power
+
+        Glockosaurus uses tail to whip bullets
+         - whips bullets
+         - attack
+         - retreat
+         - lose health
+         - lose power
+         - lose energy
+
+        Bitabuttsaurus uses mouth to bite
+         - snaps mouth
+         - attack
+         - retreat
+         - lose health
+         - lose power
+         - lose energy
+
+        Salivasaurus spits poison
+         - spits
+         - attack
+         - retreat
+         - lose health
+         - lose power
+         - lose energy*/
 
 
     }
