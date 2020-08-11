@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace RobotsVsDinosaursGame
@@ -7,15 +8,27 @@ namespace RobotsVsDinosaursGame
     
     
     public class Battlefield
-    { 
+    {
         //Member variables
-        string robot1;
-        string robot2;
-        string robot3;
-        string dino1;
-        string dino2;
-        string dino3;
+        string name;
+        string health;
+        string powerLevel;
+        string weapon;
+        string attackPower;
+        string type;
+        string energy;
 
+        //Constructor
+        public Battlefield()
+
+
+        //Method(s)
+    public void AttackEnemy()
+        //1. Robots and dinosaurs will attack.
+        //2. 
+        {
+
+        }
 
                 
     
