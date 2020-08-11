@@ -12,14 +12,24 @@ namespace RobotsVsDinosaursGame
         //Member variables
         string name;
         string health;
-        string powerLevel;
+        int powerLevel;
         string weapon;
         string attackPower;
         string type;
         string energy;
 
         //Constructor
-        public Battlefield()
+        public Battlefield(string name, string health, int powerLevel,string weapon, string attackPower, string energy)
+        {
+            this.name = name;
+            this.health = health;
+            this.powerLevel = powerLevel;
+            this.weapon = weapon;
+            this.attackPower = attackPower;
+            this.energy = energy;
+        }
+            
+
 
 
         //Method(s)
