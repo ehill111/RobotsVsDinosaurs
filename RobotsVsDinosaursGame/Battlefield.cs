@@ -27,7 +27,19 @@ namespace RobotsVsDinosaursGame
             this.weapon = weapon;
             this.attackPower = attackPower;
             this.energy = energy;
+            
         }
+
+        public Battlefield
+        {
+            Battlefield Glockosaurus = new Battlefield();
+            Battlefield Bitebuttasaurus = new Battlefield();
+            Battlefield Salivasaurus = new Battlefield();
+            Battlefield Magnum = new Battlefield();
+            Battlefield Valiant = new Battlefield();
+            Battlefield Formidable = new Battlefield();
+        }
+
             
 
 
