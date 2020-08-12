@@ -11,13 +11,13 @@ namespace RobotsVsDinosaursGame
         string health;
         int powerLevel;
         string weapon;
-        string attackPower;
-        string energy;
+        int attackPower;
+        int energy;
         string dinosaur1;
         string dinosaur2;
         string dinosaur3;
 
-        public Dinosaur(string name, string health, int powerLevel, string weapon, string attackPower, string energy)
+        public Dinosaur(string name, string health, int powerLevel, string weapon, int attackPower, int energy)
         {
             this.name = name;
             this.health = health;
