@@ -6,5 +6,6 @@ namespace RobotsVsDinosaursGame
 {
     class Herd
     {
+        public List<Dinosaur> theDinosaurs;
     }
 }

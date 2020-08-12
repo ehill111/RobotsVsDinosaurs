@@ -10,23 +10,26 @@ namespace RobotsVsDinosaursGame
         string health;
         int powerLevel;
         string weapon;
-        string attackPower;
-        string robot1;
-        string robot2;
-        string robot3;
-
-
-
+        int attackPower;
+        string robot1 = "Magnum";
+        string robot2 = "Valiant";
+        string robot3 = "Formidable";
+        
         //Constructor
 
-        public Robot(string name, string health, string powerLevel, string weapon)
+        public Robot(string name, string health, int powerLevel, string weapon, int attackPower)
         {
             this.name = name;
             this.health = health;
-            this.powerLevel = int.Parse(powerLevel);
+            this.powerLevel = powerLevel;
             this.weapon = weapon;
             this.attackPower = attackPower;
+            
         }
+
+        public void CreateRobot
+
+        public 
         public void Attack()
         {
 

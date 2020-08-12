@@ -77,7 +77,7 @@ namespace RobotsVsDinosaursGame
 
     }
 
-
+    Robot robot1 = new Robot;
 
 }
 
