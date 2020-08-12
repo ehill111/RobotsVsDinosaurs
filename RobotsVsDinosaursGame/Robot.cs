@@ -26,13 +26,11 @@ namespace RobotsVsDinosaursGame
             this.attackPower = attackPower;
             
         }
-
-        public void CreateRobot
-
-        public 
-        public void Attack()
+               
+        public void Attack(Dinosaur dino)
         {
-
+            dino.health -= weapon.attackPower;
+            //using dot notation to drill down to get what I want..
         }
     }
 }

@@ -19,8 +19,26 @@ namespace RobotsVsDinosaursGame
         public Battlefield()
         {
             theFleet = new Fleet();
-       
+            theHerd = new Herd();
         
+        }
+
+        public void RunBattle()
+        {
+            //game starts
+            //Welcome message
+            //Display rules
+            //Gameplay
+            //Robots attack
+            //Dinos attack
+            //Repeat until one side is dead
+
+            //Endgame
+            //Display who won
+            //Ask if they want to play again
+
+            public void Welcome()
+
         }
         public void Example()
         {
@@ -73,11 +91,47 @@ namespace RobotsVsDinosaursGame
          - lose health
          - lose power
          - lose energy*/
+        public void AttackSequence()
+        {
+            //Robots goes first
+            //User chooses which robot attacks
+            //User chooses which robot gets attacked
 
+            //swithch sides
+            //User chooses which robot attacks
+            //User chooses which robot gets attacked
+
+        }
+
+        public void ChooseAttacker()
+        {
+
+
+        }
+
+        public void ChooseDefender()
+        {
+
+
+        }
+
+        public int GetFighterInput()
+        {
+            
+
+
+            Console.WriteLine("Choose which dinosaur you want:");
+            for (int i = 0; i < herd.dinos.Count; int++)
+                { Console.WriteLine("Type " + i + " for " + Herd.dinos[i].type);
+
+                }
+
+
+        }
 
     }
 
-    Robot robot1 = new Robot;
+   
 
 }
 

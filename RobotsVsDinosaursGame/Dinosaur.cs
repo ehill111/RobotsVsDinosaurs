@@ -27,6 +27,11 @@ namespace RobotsVsDinosaursGame
             this.energy = energy;
         }
 
+        //member methods 
+        public void Attack(Robot robot)
+        {
+            robot.health = robot.health - attackPower;
+        }
 
         
         
